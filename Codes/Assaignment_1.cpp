@@ -47,7 +47,7 @@ public:
 
 int main()
 {
-    cout << "Rectangle Area & Perimeter Calculator\n"
+    cout << "Rectangle Area & Parameter\n"
          << endl;
 
     Rectangle r1;
