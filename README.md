@@ -60,18 +60,6 @@ The main purpose of this repository is to strengthen my understanding of OOP pri
 
 ---
 
-# Repository Structure
-
-```bash id="r0vny3"
-OOP-1/
-│
-├── C++ Codes
-├── README.md
-└── LICENSE
-```
-
----
-
 # Tools Used
 
 | Technology | Purpose                   |
@@ -100,14 +88,6 @@ This repository helped me improve my understanding of:
 * Managing object interactions
 * Implementing polymorphism correctly
 * Debugging logic and syntax errors
-
----
-
-# Future Improvements
-
-* Add more advanced OOP examples
-* Organize programs topic-wise more efficiently
-* Add code explanations and comments
 
 ---
 
